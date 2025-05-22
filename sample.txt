@@ -1,0 +1,4 @@
+this is sample text file
+it contains multiple lines.
+hello world,
+this is python language
